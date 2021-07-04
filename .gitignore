@@ -1,0 +1,5 @@
+# vscode specific ignores
+.vscode
+
+# python environment specific ignores
+.env
